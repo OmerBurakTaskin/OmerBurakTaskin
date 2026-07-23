@@ -28,7 +28,11 @@ A marketplace platform serving thousands of users across multiple cities.
 
 ---
 
+
 ## Building With
 
 Flutter • FastAPI • PostgreSQL • Docker • AWS • LangGraph •
 
+---
+
+Computer Science @ Hacettepe University
